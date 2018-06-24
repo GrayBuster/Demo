@@ -1,0 +1,20 @@
+PODS:
+  - HPUIViewExtensions (0.1.24)
+  - HPXibDesignable (0.1.6)
+
+DEPENDENCIES:
+  - HPUIViewExtensions
+  - HPXibDesignable
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HPUIViewExtensions
+    - HPXibDesignable
+
+SPEC CHECKSUMS:
+  HPUIViewExtensions: 66e4670321bbfd153b49049b69487e7d727a637c
+  HPXibDesignable: 9404c89a7a36fe22d892498ac105cbd0ae862dd9
+
+PODFILE CHECKSUM: 7c7e984c021907ff295d29f14f2acf52a27938f0
+
+COCOAPODS: 1.5.3
